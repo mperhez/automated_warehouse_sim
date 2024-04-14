@@ -1,5 +1,8 @@
 # **ABM Warehouse**: An Automated Warehouse Simulation Environment
 
+[![](https://zenodo.org/badge/DOI/10.5281/zenodo.10971674.svg)](https://doi.org/10.5281/zenodo.10971674)
+
+
 ![ABM Warehouse Environment](img/wh-environment.png)
 
 Robots are being used in warehouses to support multiple activities. For example, [Amazon has deployed a multiple type of robots in its warehouses](https://www.youtube.com/watch?v=7SvTdW4OLUQ). Some of these robots are able collect items across the warehouse and bring them closer to the human operators stations. This way the operators do not need to carry heavy load and robots can quickly find the required items across the facilities.
@@ -36,3 +39,12 @@ Likewise *ABM Warehouse* works as an introductory learning environment for conce
 # Contributors
 
 * [Marco Perez Hernandez](https://marcoph.org)
+
+# Acknowledgement
+
+Icons used here were created with the assistance of DALL·E 2. Code and code documentation also AI assisted.
+
+# Citing this work
+
+``
+Perez Hernandez, Marco (2024). ABM Warehouse: An Automated Warehouse Simulation Environment. Version 1. University of The West of England (UK). https://doi.org/10.5281/zenodo.10971674. Accessed 2024-04-14.``
